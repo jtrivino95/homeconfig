@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/jtrivino/.dropbox-personal/Dropbox/Informática/Proyectos/rmazaweb/rmazaweb/requirements'
+let g:netrw_dirhist_2='/home/jtrivino/.dropbox-personal/Dropbox/Informática/Proyectos/rmazaweb/rmazaweb/nginx/sites-enabled'
+let g:netrw_dirhist_3='/home/jtrivino/.dropbox-work/Dropbox (trivago)/projects/docker-salt/saltstack-secret'
+let g:netrw_dirhist_4='/home/jtrivino/.ipython/extensions'
+let g:netrw_dirhist_5='/home/jtrivino/.ipython/profile_default'
+let g:netrw_dirhist_6='/home/jtrivino/.dropbox-work/Dropbox (trivago)/projects/salt-testing/salt-master/saltstack/states/base'
+let g:netrw_dirhist_7='/home/jtrivino/Downloads/python-control-0.7.0/doc'
+let g:netrw_dirhist_8='/home/jtrivino/snap'
